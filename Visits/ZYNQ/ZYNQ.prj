@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="ZYNQ" location="F:/GitKraken/XILINX_PYNQ_Z2/Visits/ZYNQ" platform="F:/GitKraken/XILINX_PYNQ_Z2/Visits/ZYNQ_platform/export/ZYNQ_platform/ZYNQ_platform.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="ZYNQ_system" sysConfig="ZYNQ_platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="12cda56e7fab05ffb7a1d45a4ec9577e">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.632323325">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1039564850" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

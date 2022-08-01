@@ -1,0 +1,24 @@
+# Ignore everythingruns
+#*
+
+# But not these files...
+!.gitignore
+!.gitattributes
+.gitignore.bak
+
+!build.bat
+!build.tcl
+*.log
+*.jou
+*.str
+*.analytics
+
+
+/XILINX_PYNQ_Z2/*
+/.Xil/*
+/NA/*
+
+/Visits/.metadata/
+/Visits/RemoteSystemsTempFiles/
+/Visits/ZYNQ_platform/*
+!/Visits/ZYNQ_platform/platform.tcl
