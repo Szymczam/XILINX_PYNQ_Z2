@@ -18,7 +18,7 @@
 /.Xil/*
 /NA/*
 
-/Visits/.metadata/
-/Visits/RemoteSystemsTempFiles/
-/Visits/ZYNQ_platform/*
-!/Visits/ZYNQ_platform/platform.tcl
+/Vitis/.metadata/
+/Vitis/RemoteSystemsTempFiles/
+/Vitis/ZYNQ_platform/*
+!/Vitis/ZYNQ_platform/platform.tcl
